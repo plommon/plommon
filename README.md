@@ -14,6 +14,6 @@
 </p>
 
 <p align="left">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Plommon 3D commit" width="410px"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Plommon 3D commit" width="655px"/>
 </p>
 
