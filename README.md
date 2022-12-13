@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Plommon 3D commit" height="380px"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Plommon 3D commit" width="1440px"/>
 </p>
 
 ### Hi there 👋 I am Plommon 🐱
