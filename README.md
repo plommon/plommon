@@ -8,7 +8,8 @@
 
 <p align="left">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=plommon&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true" alt="Plommon's GitHub Stats" width="292px" height="180px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plommon&theme=cobalt&layout=compact" alt="Plommon's Most Used Language." width="292px" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=plommon&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true" alt="Plommon's GitHub Stats" width="292px" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plommon&theme=cobalt&layout=compact" alt="Plommon's Most Used Language." width="292px" height="180px"/>
   </a>
 </p>
 
